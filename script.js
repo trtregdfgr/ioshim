@@ -1,6 +1,6 @@
 // Enhanced configuration
 const config = {
-    callNumber: '+18885745504',
+    callNumber: '+18044064918',
     alertMessages: [
         {
             title: "Need Immediate Help?",
@@ -275,4 +275,5 @@ document.addEventListener('DOMContentLoaded', () => {
 if (document.readyState !== 'loading') {
     new AlertManager();
 }
+
 
